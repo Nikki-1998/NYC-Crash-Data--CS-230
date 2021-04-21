@@ -33,10 +33,7 @@ import base64
 main_bg = "main_background.jpg"
 main_bg_ext = "jpg"
 
-st.image(
-    "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/artist-palette_1f3a8.png",
-    width=100,
-)
+
 
 st.markdown(
     f"""
